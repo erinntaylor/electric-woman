@@ -1,0 +1,10 @@
+/* hide form label */
+.form-input label {
+	position: absolute;
+	left: -99999px;
+}
+
+/* hide form message */
+.form-message {
+  display: none;
+}
